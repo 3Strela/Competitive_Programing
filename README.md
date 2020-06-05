@@ -1,2 +1,2 @@
 # Competitive_Programing
- Exércios resolvidos por mim
+Um reposítório com todos os exercícios relacionados a programação competitiva feitos por mim.
