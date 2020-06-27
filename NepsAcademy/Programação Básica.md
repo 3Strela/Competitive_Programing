@@ -13,7 +13,7 @@
 - [Gangorra](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Gangorra.cpp)
 - [Par ou Ímpar](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Par%20ou%20Ímpar.cpp)
 - [Positivo, Negativo ou Nulo](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Positivo%2C%20Negativo%20ou%20Nulo.cpp)
-- [Aprovado ou Reprovado](hhttps://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Aprovado%20ou%20Reprovado.cpp)
+- [Aprovado ou Reprovado](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Aprovado%20ou%20Reprovado.cpp)
 - [Flíper](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Flíper.cpp)
 
 **Repetição:**
