@@ -1,21 +1,21 @@
 # Introdução
 **Uma Breve História de Grafos:**
-- [Aeroporto]()
+- [Aeroporto](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Aeroporto.cpp)
 
 **Representação de um Grafo:**
-- [Tá ligado?]()
-- [Costa]()
+- [Tá ligado?](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Tá%20Ligado.cpp)
+- [Costa](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Costa.cpp)
 
 **Representação de um Grafo:**
-- [Toca do Saci]()
+- [Toca do Saci](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Toca%20do%20Saci.cpp)
 - [Móbile]()
-- [Gincana (OBI 2011)]()
-- [Ladrilhos]()
+- [Gincana (OBI 2011)](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Gincana%20(OBI%202011).cpp)
+- [Ladrilhos](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Ladrilhos.cpp)
 
 # Conceitos Básicos
 **Menor Caminho - Parte 1:**
-- [Mina]()
-- [Caminho das Pontes]()
+- [Mina](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Mina.cpp)
+- [Caminho das Pontes](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Caminho%20das%20Pontes.cpp)
 - [Desvio de Rota]()
 
 **Algoritmo de Kruskal:**
