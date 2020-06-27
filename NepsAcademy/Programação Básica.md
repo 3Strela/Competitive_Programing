@@ -6,6 +6,7 @@
 - [Soma Fácil!](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Soma%20Fácil.cpp)
 - [Média Inteira](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Média%20Inteira.cpp)
 - [Área do Quadrado](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Área%20do%20Quadrado.cpp)
+
 # Controlando o Código
 **Seleção:**
 - [Bondinho](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Bondinho.cpp)
