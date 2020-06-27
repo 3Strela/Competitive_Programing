@@ -1,25 +1,25 @@
 # Estruturas Básicas da STL
 **Vector:**
-- [Fila]()
+- [Fila](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Fila%20(OBI2014).cpp)
 - [Bora Bora]()
 
 **Pair:**
-- [Times]()
-- [Sorvete]()
+- [Times](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Times.cpp)
+- [Sorvete](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Sorvete.cpp)
 
 **Queue:**
-- [Copa do Mundo]()
+- [Copa do Mundo](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Copa%20do%20Mundo%20(OBI%202010).cpp)
 
 **Stack:**
-- [Expressões]()
-- [Chaves]()
+- [Expressões](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Expressões.cpp)
+- [Chaves](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Chaves.cpp)
 - [Apagando e Ganhando]()
 
 # Estruturas Intermediárias
 **Set:**
-- [Frequência na Aula]()
-- [Troca de Cartas]()
-- [Tacos de Bilhas]()
+- [Frequência na Aula](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Frequência%20na%20Aula.cpp)
+- [Troca de Cartas](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Troca%20de%20Cartas.cpp)
+- [Tacos de Bilhas](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Tacos%20de%20Bilhar.cpp)
 
 **Map:**
 - [Repositórios]()
@@ -27,7 +27,7 @@
 - [Sanduíche]()
 
 **Union-Find:**
-- [Fusões]()
+- [Fusões](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Tacos%20de%20Bilhar.cpp)
 - [Guildas]()
 
 **Priority Queue:**

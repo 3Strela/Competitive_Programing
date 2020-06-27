@@ -2,12 +2,12 @@
 **Algoritmo Guloso:**
 - [Fechadura]()
 - [Dentista]()
-- [Troco Fácil]()
+- [Troco Fácil](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Troco%20Fácil.cpp)
 - [Caverna de Ordinskaya]()
 
 **Busca Binária:**
-- [Ogros]()
-- [Soma de Casas]()
+- [Ogros](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Ogros.cpp)
+- [Soma de Casas](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Soma%20de%20Casas.cpp)
 
 # Técnicas Intermediárias
 **Programação Dinâmica:**
@@ -42,5 +42,5 @@
 - [Isso aqui é que não dá!]()
 
 **Soma Máxima em um Intervalo:**
-- [Corredor]()
-- [Pizza]()
+- [Corredor](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Corredor.cpp)
+- [Pizza](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Pizza.cpp)
