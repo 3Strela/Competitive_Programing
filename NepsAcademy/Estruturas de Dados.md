@@ -27,7 +27,7 @@
 - [Sanduíche]()
 
 **Union-Find:**
-- [Fusões](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Tacos%20de%20Bilhar.cpp)
+- [Fusões](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Fusões.cpp)
 - [Guildas]()
 
 **Priority Queue:**
