@@ -28,7 +28,7 @@
 
 **Union-Find:**
 - [Fusões](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Fusões.cpp)
-- [Guildas]()
+- [Guildas](https://github.com/3Strela/Competitive_Programing/blob/master/NepsAcademy/AnyEx/Guildas.cpp)
 
 **Priority Queue:**
 - [Banco]()
