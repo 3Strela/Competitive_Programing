@@ -26,7 +26,7 @@
 
 # Operações com bits
 **Operadores Binários:**
-- [Segmento de maior Or]
+- [Segmento de maior Or]((https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/SegmentoDeMaiorOr.cpp)
 
 **Manipulação de Bits:**
 - [Fila de 1's](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Fila%20de%201's.cpp)

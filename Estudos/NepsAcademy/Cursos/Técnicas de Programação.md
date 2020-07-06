@@ -1,9 +1,9 @@
 # Técnicas Básicas
 **Algoritmo Guloso:**
-- [Fechadura]
-- [Dentista]
+- [Fechadura](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Fechadura.cpp)
+- [Dentista](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Dentista.cpp)
 - [Troco Fácil](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Troco%20Fácil.cpp)
-- [Caverna de Ordinskaya]
+- [Caverna de Ordinskaya](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Caverna%20de%20Ordinskaya.cpp)
 
 **Busca Binária:**
 - [Ogros](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Ogros.cpp)

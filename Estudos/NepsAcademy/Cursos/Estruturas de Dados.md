@@ -13,7 +13,7 @@
 **Stack:**
 - [Expressões](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Expressões.cpp)
 - [Chaves](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Chaves.cpp)
-- [Apagando e Ganhando]
+- [Apagando e Ganhando](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Apagando&Ganhando.cpp)
 
 # Estruturas Intermediárias
 **Set:**
@@ -22,8 +22,8 @@
 - [Tacos de Bilhas](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Tacos%20de%20Bilhar.cpp)
 
 **Map:**
-- [Repositórios]
-- [O Fantástico Jaspion]
+- [Repositórios](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Repositórios.cpp)
+- [O Fantástico Jaspion](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Jaspion.cpp)
 - [Sanduíche]
 
 **Union-Find:**
@@ -31,7 +31,7 @@
 - [Guildas](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Guildas.cpp)
 
 **Priority Queue:**
-- [Banco]
+- [Banco](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Banco.cpp)
 - [Telemarketing]
 
 # Estruturas Avançadas

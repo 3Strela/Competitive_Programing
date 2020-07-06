@@ -8,7 +8,7 @@
 
 **Representação de um Grafo:**
 - [Toca do Saci](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Toca%20do%20Saci.cpp)
-- [Móbile]()
+- [Móbile](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Móbile.cpp)
 - [Gincana (OBI 2011)](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Gincana%20(OBI%202011).cpp)
 - [Ladrilhos](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Ladrilhos.cpp)
 
@@ -16,10 +16,10 @@
 **Menor Caminho - Parte 1:**
 - [Mina](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Mina.cpp)
 - [Caminho das Pontes](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Caminho%20das%20Pontes.cpp)
-- [Desvio de Rota]
+- [Desvio de Rota](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/DesvioRotas.cpp)
 
 **Algoritmo de Kruskal:**
-- [Reduzindo Detalhes de um Mapa]
+- [Reduzindo Detalhes de um Mapa](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/ReduzindoMapas.cpp)
 - [Copa do Mundo (OBI 2014)]
 
 **Algoritmo de Prim:**
