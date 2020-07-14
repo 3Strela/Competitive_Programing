@@ -20,12 +20,12 @@
 
 # Problemas Comuns
 **Contagem de Inversões:**
-- [Linhas Cruzadas]
+- [Linhas Cruzadas](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/LinhasCruzadas.cpp)
 - [Arco e Flecha]
 
 **Problema da Mochila:**
 - [Em Busca do Corpo Perfeito]
-- [Pedido de Desculpas]
+- [Pedido de Desculpas]((https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/PedidoDesculpas.cpp))
 
 **Maior Subsequência Comum:**
 - [Maior Ancestral Comum]
@@ -37,7 +37,7 @@
 - [Não é só mais um LCS!]
 
 **Troco:**
-- [Véi, dá meu troco!]
+- [Véi, dá meu troco!]((https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Troco1.cpp))
 - [Mano, tu me dá esse troco com menos de dez moedas!]
 - [Isso aqui é que não dá!]
 

@@ -20,10 +20,10 @@
 
 **Algoritmo de Kruskal:**
 - [Reduzindo Detalhes de um Mapa](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/ReduzindoMapas.cpp)
-- [Copa do Mundo (OBI 2014)]
+- [Copa do Mundo (OBI 2014)](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/CopaMundo.cpp)
 
 **Algoritmo de Prim:**
-- [Frete da Família Silva]
+- [Frete da Família Silva](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/FFSilva.cpp)
 
 **Ordenação Topológica:**
 - [Escalonamento Ótimo]

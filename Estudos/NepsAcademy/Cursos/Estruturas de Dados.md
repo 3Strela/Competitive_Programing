@@ -32,7 +32,7 @@
 
 **Priority Queue:**
 - [Banco](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Banco.cpp)
-- [Telemarketing]
+- [Telemarketing](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Telemarketing.cpp)
 
 # Estruturas Avançadas
 **Árvore de Segmentos:**
