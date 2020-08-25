@@ -1,7 +1,7 @@
 # Estruturas Básicas da STL
 **Vector:**
 - [Fila](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Fila%20(OBI2014).cpp)
-- [Bora Bora]
+- [Bora Bora](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/BoraBora.cpp)
 
 **Pair:**
 - [Times](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Times.cpp)
@@ -38,7 +38,7 @@
 **Árvore de Segmentos:**
 - [Produto do Intervalo]
 - [Banco do Faraó]
-- [Chuva]
+- [Chuva](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Chuva.cpp)
 
 **Árvore de Indexação Binária (BIT):**
 - [Bolhas e Baldes]

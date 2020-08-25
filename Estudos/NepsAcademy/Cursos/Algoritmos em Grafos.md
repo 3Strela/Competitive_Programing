@@ -26,12 +26,12 @@
 - [Frete da Família Silva](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/FFSilva.cpp)
 
 **Ordenação Topológica:**
-- [Escalonamento Ótimo]
+- [Escalonamento Ótimo](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/EscalonamentoÓtimo.cpp)
 
 # Conceitos Intermediários
 **Menor Caminho - Parte 2:**
-- [Reunião]
-- [Lanche na Empresa]
+- [Reunião](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Reunião.cpp)
+- [Lanche na Empresa](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Lanche.cpp)
 
 **Menor Ancestral Comum:**
 - [Jogo da Memória]

@@ -32,14 +32,14 @@
 - [Maior Subsequência Quase Crescente]
 
 **Maior Subsequência Crescente:**
-- [Letras]
+- [Letras](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Letras.cpp)
 - [Sequência da Onda]
 - [Não é só mais um LCS!]
 
 **Troco:**
-- [Véi, dá meu troco!]((https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Troco1.cpp))
-- [Mano, tu me dá esse troco com menos de dez moedas!]
-- [Isso aqui é que não dá!]
+- [Véi, dá meu troco!](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/MeuTroco.cpp)
+- [Mano, tu me dá esse troco com menos de dez moedas!](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/10moedas.cpp)
+- [Isso aqui é que não dá!](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/IssoNaoDa.cpp)
 
 **Soma Máxima em um Intervalo:**
 - [Corredor](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Corredor.cpp)
