@@ -5,22 +5,23 @@ int main()
 {
     ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
 
-    int n, aux;
+    int n;
     cin >> n;
 
-    bool ganhou = true;
+    int carlin;
+    bool conseguiu = true;
     for (int i = 0; i < n; i++)
     {
         int temp;
         cin >> temp;
 
         if (i == 0)
-            aux = temp;
-        else if (temp > aux)
-            ganhou = false;
+            carlin = temp;
+        else if (temp > carlin)
+            conseguiu = false;
     }
 
-    cout << (ganhou ? "S\n" : "N\n");
+    cout << (conseguiu ? "S\n" : "N\n");
 
     return 0;
 }
