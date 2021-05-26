@@ -1,7 +1,7 @@
 # **10 Days of Statistics:**
 
-| Day  |  Problem  |
-| - | ------------------- |
+| Day  |  Problem  | Day  |  Problem  |
+| - | ------------------- | - | ------------------- |
 | 0 |  [Mean, Median, and Mode](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/MeanMedianMode.cpp) | 5 |  Normal Distribution I |
 | 0 |  [Weighted Mean](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/weightedMean.cpp) | 5 |  Normal Distribution II |
 | 1 |  [Quartiles](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Quartiles.cpp) | 6 |  The Central Limit Theorem I |
