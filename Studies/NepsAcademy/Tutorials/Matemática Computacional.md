@@ -1,36 +1,36 @@
 # Introdução
 **Divisibilidade:**
-- [Critérios de Divisibilidade 1](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Critérios%20de%20Divisibilidade%201.cpp)
-- [Critérios de Divisibilidade 2](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Critérios%20de%20Divisibilidade%202.cpp)
-- [Critérios de Divisibilidade 3](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Critérios%20de%20Divisibilidade%203.cpp)
+- [Critérios de Divisibilidade 1]()
+- [Critérios de Divisibilidade 2]()
+- [Critérios de Divisibilidade 3]()
 
 **Geometria Básica:**
-- [Detectando Colisões](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Detectando%20Colisões.cpp)
-- [Insensibilidade](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Insensibilidade.cpp)
-- [Distância de Manhattan](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Distância%20de%20Manhattan.cpp)
+- [Detectando Colisões]()
+- [Insensibilidade]()
+- [Distância de Manhattan]()
 
 # Algoritmos Básicos
 **Primos:**
-- [É primo?](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/É%20primo.cpp)
-- [Selos](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Selos.cpp)
-- [Primos Menores Que Uma Dada Magnitude](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Primos%20Menores%20Que%20Uma%20Dada%20Magnitude.cpp)
+- [É primo?]()
+- [Selos]()
+- [Primos Menores Que Uma Dada Magnitude]()
 
 **Algoritmo de Euclides:**
-- [MDC Sequenciado](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/MDC%20Sequenciado.cpp)
-- [Soma de Frações](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Soma%20de%20Frações.cpp)
+- [MDC Sequenciado]()
+- [Soma de Frações]()
 
 **Crivo de Erastótenes:**
-- [Primos Menores Que Uma Dada Magnitude: O Retorno](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Primos%20Menores%20Que%20Uma%20Dada%20Magnitude%20O%20Retorno.cpp)
-- [Ajude Riemann](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Ajude%20Riemann.cpp)
-- [Riemann Ataca Novamente](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Riemann%20Ataca%20Novamente.cpp)
+- [Primos Menores Que Uma Dada Magnitude: O Retorno]()
+- [Ajude Riemann]()
+- [Riemann Ataca Novamente]()
 
 # Operações com bits
 **Operadores Binários:**
-- [Segmento de maior Or]((https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/SegmentoDeMaiorOr.cpp)
+- [Segmento de maior Or]()
 
 **Manipulação de Bits:**
-- [Fila de 1's](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Fila%20de%201's.cpp)
-- [Contar Bits](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Contar%20bits.cpp)
+- [Fila de 1's]()
+- [Contar Bits]()
 
 # Algoritmos Intermediários
 **Geometria:**
@@ -38,8 +38,8 @@
 - [Jardim de Infância]
 
 **Permutações e Combinações:**
-- [Oráculo de Alexandria](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Oráculo%20de%20Alexandria.cpp)
+- [Oráculo de Alexandria]()
 
 **Princípios Combinatórios:**
-- [Clube dos Cinco](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Clube%20dos%20Cinco.cpp)
-- [Caixinha de Palitos](https://github.com/3Strela/Competitive_Programing/blob/master/Estudos/NepsAcademy/AnyEx/Caixinha%20de%20Palitos.cpp)
+- [Clube dos Cinco]()
+- [Caixinha de Palitos]()
