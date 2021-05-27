@@ -1,4 +1,4 @@
-# Estruturas Básicas da STL
+# STL's basic structures
 **Vector:**
 - [Fila]()
 - [Bora Bora]()
@@ -15,7 +15,7 @@
 - [Chaves]()
 - [Apagando e Ganhando]()
 
-# Estruturas Intermediárias
+# Intermediate structures
 **Set:**
 - [Frequência na Aula]()
 - [Troca de Cartas]()
@@ -34,17 +34,17 @@
 - [Banco]()
 - [Telemarketing]()
 
-# Estruturas Avançadas
-**Árvore de Segmentos:**
+# Advanced structures
+**Segment tree:**
 - [Produto do Intervalo]
 - [Banco do Faraó]
 - [Chuva]()
 
-**Árvore de Indexação Binária (BIT):**
+**Binary Indexed Tree(BIT) or Fenwick Tree:**
 - [Bolhas e Baldes]
 
 **Lazy Propagation:**
 - [Caixas de Moedas]
 
-**Árvore de Indexação Binária (2D):**
+**2D Binary Indexed Tree:**
 - [Mercado do Cairo]

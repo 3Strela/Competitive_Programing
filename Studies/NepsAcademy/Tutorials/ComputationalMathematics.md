@@ -1,45 +1,45 @@
-# Introdução
-**Divisibilidade:**
-- [Critérios de Divisibilidade 1]()
-- [Critérios de Divisibilidade 2]()
-- [Critérios de Divisibilidade 3]()
+# Introduction
+**Divisibility:**
+- [Divisibility rule I]()
+- [Divisibility rule II]()
+- [Divisibility rule III]()
 
-**Geometria Básica:**
+**Basic geometry:**
 - [Detectando Colisões]()
 - [Insensibilidade]()
 - [Distância de Manhattan]()
 
-# Algoritmos Básicos
-**Primos:**
+# Basic Algorithms
+**Primes:**
 - [É primo?]()
 - [Selos]()
 - [Primos Menores Que Uma Dada Magnitude]()
 
-**Algoritmo de Euclides:**
+**Euclid's Algorithm:**
 - [MDC Sequenciado]()
 - [Soma de Frações]()
 
-**Crivo de Erastótenes:**
+**Eratosthenes' sieve:**
 - [Primos Menores Que Uma Dada Magnitude: O Retorno]()
 - [Ajude Riemann]()
 - [Riemann Ataca Novamente]()
 
-# Operações com bits
-**Operadores Binários:**
+# Bitwise operations
+**Bitwise operators:**
 - [Segmento de maior Or]()
 
-**Manipulação de Bits:**
+**Bit manipulation:**
 - [Fila de 1's]()
 - [Contar Bits]()
 
-# Algoritmos Intermediários
-**Geometria:**
+# Intermediate Algorithms
+**Geometry:**
 - [Polígono]
 - [Jardim de Infância]
 
-**Permutações e Combinações:**
+**Permutations and combinations:**
 - [Oráculo de Alexandria]()
 
-**Princípios Combinatórios:**
+**Combinatorial principles:**
 - [Clube dos Cinco]()
 - [Caixinha de Palitos]()

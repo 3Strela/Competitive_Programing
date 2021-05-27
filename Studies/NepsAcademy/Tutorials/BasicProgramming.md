@@ -1,14 +1,14 @@
-# Introdução
-**Introdução:**
+# Introduction
+**Introduction:**
 - [Olá CodCad!]()
 
-**Entrada e Saída:**
+**Input and output:**
 - [Soma Fácil!]()
 - [Média Inteira]()
 - [Área do Quadrado]()
 
-# Controlando o Código
-**Seleção:**
+# Code manipulation
+**If statement:**
 - [Bondinho]()
 - [Gangorra]()
 - [Par ou Ímpar]()
@@ -16,29 +16,29 @@
 - [Aprovado ou Reprovado]()
 - [Flíper]()
 
-**Repetição:**
+**Looping statement:**
 - [Garçom]()
 - [Prêmio do Milhão]()
 - [Lâmpadas]()
 - [Todos os Divisores]()
 - [Consecutivos]()
 
-**Matemática:**
+**Basic math:**
 - [Raízes]()
 - [Potência Simples]()
 
-# Vetores e Matrizes
-**Vetores:**
+# Arrays and 2D Arrays
+**Arrays:**
 - [Código (OBI 2015)]()
 - [Campo Minado]()
 - [Fita Colorida]()
 
-**Matrizes:**
+**2D Arrays:**
 - [Quadrado Mágico]()
 - [Torre]()
 
-# Cadeia de Caracteres
-**Caracteres:**
+# Character array
+**Characters:**
 - [Operações]()
 - [Overflow]()
 
@@ -47,17 +47,17 @@
 - [Huaauhahhuahau]()
 - [Contagem de Algarismos]()
 
-# Funções e Ordenação
-**Funções:**
+# Functions and sort
+**Functions:**
 - [Título]()
 - [Primo]()
 - [Soma do Vetor]()
 
-**Funções Recursivas:**
+**Recursion functions:**
 - [Fibonacci]()
 - [Torres de Hanói]()
 
-**Ordenação:**
+**Sort:**
 - [Ordenação Simples]()
 - [Matryoshka]()
 - [Olimpíadas]()

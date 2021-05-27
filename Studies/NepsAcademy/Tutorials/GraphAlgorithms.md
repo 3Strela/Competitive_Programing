@@ -1,38 +1,38 @@
-# Introdução
-**Uma Breve História de Grafos:**
+# Introduction
+**Something called Graph Theory:**
 - [Aeroporto]()
 
 **Representação de um Grafo:**
 - [Tá ligado?]()
 - [Costa]()
 
-**Representação de um Grafo:**
+**Graph representation:**
 - [Toca do Saci]()
 - [Móbile]()
 - [Gincana (OBI 2011)]()
 - [Ladrilhos]()
 
-# Conceitos Básicos
-**Menor Caminho - Parte 1:**
+# Basic concepts
+**Dijkstra's algorithm:**
 - [Mina]()
 - [Caminho das Pontes]()
 - [Desvio de Rota]()
 
-**Algoritmo de Kruskal:**
+**Kruskal's algorithm:**
 - [Reduzindo Detalhes de um Mapa]()
 - [Copa do Mundo (OBI 2014)]()
 
-**Algoritmo de Prim:**
+**Prim's algorithm:**
 - [Frete da Família Silva]()
 
-**Ordenação Topológica:**
+**Topological sorting:**
 - [Escalonamento Ótimo]()
 
-# Conceitos Intermediários
-**Menor Caminho - Parte 2:**
+# Intermediate concepts
+**Floyd–Warshall' algorithm:**
 - [Reunião]()
 - [Lanche na Empresa]()
 
-**Menor Ancestral Comum:**
+**Lowest common ancestor:**
 - [Jogo da Memória]()
 - [Colônia de Formigas]()
