@@ -1,5 +1,5 @@
 # Basic techniques
-**Greedy Strategy:**
+**Greedy paradigm:**
 - [Fechadura]()
 - [Dentista]()
 - [Troco Fácil]()
