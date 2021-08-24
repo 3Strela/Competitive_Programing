@@ -13,8 +13,8 @@ int main()
         }
 
         int md = sm / n;
-        double sla = sm / n;
-        if (md != sla)
+        double md_float = sm / n;
+        if (md != md_float)
             printf("-1\n");
         else
         {
