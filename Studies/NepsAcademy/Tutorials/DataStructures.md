@@ -36,16 +36,15 @@
 
 # Advanced structures
 **Segment tree:**
-- [Produto do Intervalo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/
-ProdutoIntervalo.cpp)
+- [Produto do Intervalo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ProdutoIntervalo.cpp)
 - [Banco do Faraó]
 - [Chuva](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Chuva.cpp)
 
 **Binary Indexed Tree(BIT) or Fenwick Tree:**
-- [Bolhas e Baldes]
+- [Bolhas e Baldes](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/BolhasBaldes.cpp)
 
 **Lazy Propagation:**
-- [Caixas de Moedas]
+- [Caixas de Moedas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CaixasMoedas.cpp)
 
 **2D Binary Indexed Tree:**
 - [Mercado do Cairo]

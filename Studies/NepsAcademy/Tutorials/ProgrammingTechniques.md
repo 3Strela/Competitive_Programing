@@ -13,20 +13,18 @@
 **Dynamic programming:**
 - [Febre de Recursões](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/FebreRecursoes.cpp)
 - [Trabalho do Papa]
-- [O Banco Inteligente](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/
-BancoInteligente.cpp)
+- [O Banco Inteligente](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/BancoInteligente.cpp)
 
 **MergeSort:**
-- [Eu aprendi o MergeSort]
+- [Eu aprendi o MergeSort](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/MergeSort.cpp)
 
 # Common problems
 **Count inversions:**
 - [Linhas Cruzadas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/LinhasCruzadas.cpp)
-- [Arco e Flecha]
+- [Arco e Flecha](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ArcoFlecha.cpp)
 
 **Knapsack problem:**
-- [Em Busca do Corpo Perfeito](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/
-CorpoPerfeito.cpp)
+- [Em Busca do Corpo Perfeito](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CorpoPerfeito.cpp)
 - [Pedido de Desculpas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/PedidoDesculpas.cpp)
 
 **Longest common subsequence:**
