@@ -9,4 +9,4 @@ This's the reason why I am here.
 
 To learn and "discover" some data structures and paradigms.
 
-In the end, I want to be good in CP and good at solve programming problems.
+In the end, I want to be good in CP and good at solve programming problems. =)
