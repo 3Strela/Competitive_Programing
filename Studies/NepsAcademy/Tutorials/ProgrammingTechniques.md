@@ -12,7 +12,7 @@
 # Intermediate techniques
 **Dynamic programming:**
 - [Febre de Recursões](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/FebreRecursoes.cpp)
-- [Trabalho do Papa]
+- [Trabalho do Papa](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Papa.cpp)
 - [O Banco Inteligente](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/BancoInteligente.cpp)
 
 **MergeSort:**
@@ -33,8 +33,8 @@
 
 **Longest increasing subsequence:**
 - [Letras](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Letras.cpp)
-- [Sequência da Onda]
-- [Não é só mais um LCS!]
+- [Sequência da Onda](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/SeqOnde.cpp)
+- [Não é só mais um LCS!](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/NaoEhLCS.cpp)
 
 **Coin change:**
 - [Véi, dá meu troco!](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/MeuTroco.cpp)
@@ -44,3 +44,7 @@
 **Maximum sum subsequence:**
 - [Corredor](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Corredor.cpp)
 - [Pizza](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Pizza.cpp)
+
+# Certificate
+
+It's not available =(

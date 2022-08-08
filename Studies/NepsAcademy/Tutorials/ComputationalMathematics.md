@@ -43,3 +43,8 @@
 **Combinatorial principles:**
 - [Clube dos Cinco](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ClubeCinco.cpp)
 - [Caixinha de Palitos](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CaixinhaPalitos.cpp)
+
+# Certificate
+
+![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/matComp.png)
+-[LINK](https://neps.academy/br/certificate/NA-6158695009)

@@ -37,7 +37,7 @@
 # Advanced structures
 **Segment tree:**
 - [Produto do Intervalo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ProdutoIntervalo.cpp)
-- [Banco do Faraó]
+- [Banco do Faraó](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Farao.cpp)
 - [Chuva](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Chuva.cpp)
 
 **Binary Indexed Tree(BIT) or Fenwick Tree:**
@@ -47,4 +47,9 @@
 - [Caixas de Moedas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CaixasMoedas.cpp)
 
 **2D Binary Indexed Tree:**
-- [Mercado do Cairo]
+- [Mercado do Cairo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Mercado.cpp)
+
+# Certificate
+
+![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/estruturas.png)
+-[LINK](https://neps.academy/br/certificate/NA-6158695010)

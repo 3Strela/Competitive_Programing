@@ -1,3 +1,10 @@
 # Improving my programming's skills with:
-- [**Hacker Rank**](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/README.md)
-- [**Neps Academy**](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/README.md)
+- [**CSES**](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/CSES/README.md
+- [**Hacker Rank**](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/README.md))
+- [**Neps Academy(CodCad)**](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/README.md)
+
+# My profile:
+- [*CodeForces**](https://codeforces.com/profile/3Strela) --> 3Strela
+- [*Beecrowd**](https://www.beecrowd.com.br/judge/pt/users/statistics/442311) --> 3Strela
+- [**Hacker Rank**](https://www.hackerrank.com/TalDoEstrela) --> TalDoEstrela
+- [**Neps Academy**](https://neps.academy/br/user/8695) --> Estrêlinha hihihi
