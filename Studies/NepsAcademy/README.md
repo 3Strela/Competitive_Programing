@@ -1,8 +1,5 @@
-### Neps Academy's(Codcad) competitive programming courses:
+# Basic Programming
 
-## Basic Programming
-
-# Introduction
 **Introduction:**
 - [Olá CodCad!](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Ola_CodCad.cpp)
 
@@ -11,7 +8,6 @@
 - [Média Inteira](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/MediaInteira.cpp)
 - [Área do Quadrado](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Area_do_Quadrado.cpp)
 
-# Code manipulation
 **If statement:**
 - [Bondinho](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Bondinho.cpp)
 - [Gangorra](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Gangorra.cpp)
@@ -31,7 +27,6 @@
 - [Raízes](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Raizes.cpp)
 - [Potência Simples](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/PotenciasSimples.cpp)
 
-# Arrays and 2D Arrays
 **Arrays:**
 - [Código (OBI 2015)](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Codigo.cpp)
 - [Campo Minado](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CampoMinado.cpp)
@@ -41,7 +36,6 @@
 - [Quadrado Mágico](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/QuadradoMagico.cpp)
 - [Torre](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Torre.cpp)
 
-# Character array
 **Characters:**
 - [Operações](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Operacoes.cpp)
 - [Overflow](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Overflow.cpp)
@@ -51,7 +45,6 @@
 - [Huaauhahhuahau](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Huaauhahhuahau.cpp)
 - [Contagem de Algarismos](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ContagemAlgarismos.cpp)
 
-# Functions and sort
 **Functions:**
 - [Título](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Titulo.cpp)
 - [Primo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Primo.cpp)
@@ -67,9 +60,8 @@
 - [Olimpíadas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Olimpiadas.cpp)
 - [Fórmula 1](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Formula1.cpp)
 
-## Computational Mathematics
+# Computational Mathematics
 
-# Introduction
 **Divisibility:**
 - [Divisibility rule I](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CriteriosDivisibilidadeI.cpp)
 - [Divisibility rule II](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CriteriosDivisibilidadeII.cpp)
@@ -80,7 +72,6 @@
 - [Insensibilidade](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Insensibilidade.cpp)
 - [Distância de Manhattan](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/DistanciaManhattan.cpp)
 
-# Basic Algorithms
 **Primes:**
 - [É primo?](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Ehprimo.cpp)
 - [Selos](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Selos.cpp)
@@ -95,7 +86,6 @@
 - [Ajude Riemann](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/AjudeRiemann.cpp)
 - [Riemann Ataca Novamente](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/RiemannNovamente.cpp)
 
-# Bitwise operations
 **Bitwise operators:**
 - [Segmento de maior Or](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/SegmentoDeMaiorOr.cpp)
 
@@ -103,7 +93,6 @@
 - [Fila de 1's](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/FilaDe1.cpp)
 - [Contar Bits](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ContarBits.cpp)
 
-# Intermediate Algorithms
 **Geometry:**
 - [Polígono](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Poligono.cpp)
 - [Jardim de Infância](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/JardimInfancia.cpp)
@@ -115,8 +104,8 @@
 - [Clube dos Cinco](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ClubeCinco.cpp)
 - [Caixinha de Palitos](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CaixinhaPalitos.cpp)
 
-## Data Structures
-# STL's basic structures
+# Data Structures
+
 **Vector:**
 - [Fila](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Operacoes.cpp)
 - [Bora Bora](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CriteriosDivisibilidadeIII.cpp)
@@ -133,7 +122,6 @@
 - [Chaves](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Chaves.cpp)
 - [Apagando e Ganhando](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Apagando&Ganhando.cpp)
 
-# Intermediate structures
 **Set:**
 - [Frequência na Aula](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/FrequenciaAula.cpp)
 - [Troca de Cartas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/TrocaCartas.cpp)
@@ -152,7 +140,6 @@
 - [Banco](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Banco.cpp)
 - [Telemarketing](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Telemarketing.cpp)
 
-# Advanced structures
 **Segment tree:**
 - [Produto do Intervalo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ProdutoIntervalo.cpp)
 - [Banco do Faraó](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Farao.cpp)
@@ -167,23 +154,21 @@
 **2D Binary Indexed Tree:**
 - [Mercado do Cairo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Mercado.cpp)
 
-## Graph Algorithms
+# Graph Algorithms
 
-# Introduction
 **Something called Graph Theory:**
 - [Aeroporto](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Aeroporto.cpp)
 
-**Representação de um Grafo:**
+**Graph representation:**
 - [Tá ligado?](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/TaLigado.cpp)
 - [Costa](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Costa.cpp)
 
-**Graph representation:**
+**Graph search:**
 - [Toca do Saci](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/TocaSaci.cpp)
 - [Móbile](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Mobile.cpp)
 - [Gincana (OBI 2011)](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Gincana.cpp)
 - [Ladrilhos](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Ladrilhos.cpp)
 
-# Basic concepts
 **Dijkstra's algorithm:**
 - [Mina](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Mina.cpp)
 - [Caminho das Pontes](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/CaminhoPontes.cpp)
@@ -199,7 +184,6 @@
 **Topological sorting:**
 - [Escalonamento Ótimo](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/EscalonamentoOtimo.cpp)
 
-# Intermediate concepts
 **Floyd–Warshall' algorithm:**
 - [Reunião](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Reuniao.cpp)
 - [Lanche na Empresa](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Lanche.cpp)
@@ -208,8 +192,8 @@
 - [Jogo da Memória](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/JogoMemoria.cpp)
 - [Colônia de Formigas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ColoniaFormigas.cpp)
 
-## Programming Techniques
-# Basic techniques
+# Programming Techniques
+
 **Greedy paradigm:**
 - [Fechadura](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Fechadura.cpp)
 - [Dentista](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Dentista.cpp)
@@ -220,7 +204,6 @@
 - [Ogros](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Ogros.cpp)
 - [Soma de Casas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/SomaCasas.cpp)
 
-# Intermediate techniques
 **Dynamic programming:**
 - [Febre de Recursões](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/FebreRecursoes.cpp)
 - [Trabalho do Papa](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Papa.cpp)
@@ -229,7 +212,6 @@
 **MergeSort:**
 - [Eu aprendi o MergeSort](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/MergeSort.cpp)
 
-# Common problems
 **Count inversions:**
 - [Linhas Cruzadas](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/LinhasCruzadas.cpp)
 - [Arco e Flecha](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/ArcoFlecha.cpp)
@@ -256,16 +238,16 @@
 - [Corredor](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Corredor.cpp)
 - [Pizza](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/AnyEx/Pizza.cpp)
 
-## Certificates
+# Certificates
 
 ![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/pb.png)
--[LINK](https://neps.academy/br/certificate/NA-6158695006)
+- [LINK](https://neps.academy/br/certificate/NA-6158695006)
 
 ![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/matComp.png)
--[LINK](https://neps.academy/br/certificate/NA-6158695009)
+- [LINK](https://neps.academy/br/certificate/NA-6158695009)
 
 ![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/estruturas.png)
--[LINK](https://neps.academy/br/certificate/NA-6158695010)
+- [LINK](https://neps.academy/br/certificate/NA-6158695010)
 
 ![Certificate](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/NepsAcademy/CertificatesPNG/grafos.png)
--[LINK](https://neps.academy/br/certificate/NA-6158695008)
+- [LINK](https://neps.academy/br/certificate/NA-6158695008)

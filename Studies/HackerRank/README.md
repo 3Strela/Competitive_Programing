@@ -1,6 +1,5 @@
-## Programming's Lessons 
-
 # 10 Days of Statistics
+
 | Day  |  Problem  | Day  |  Problem  |
 | - | ------------------- | - | ------------------- |
 | 0 |  [Mean, Median, and Mode](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/MeanMedianMode.cpp) | 5 |  Normal Distribution I |
@@ -16,6 +15,7 @@
 | 5 |  [Poisson Distribution II](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/PoissonDistributionII.cpp) |
 
 # 30 Days of Code
+
 | Day  |  Problem  | Day  |  Problem  | Day  |  Problem  |
 | - | ------------------- | - | ------------------- | - | ------------------- |
 |  0 |  [Hello, World.](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/HelloWorld.cpp) | 10 |  [Binary Numbers](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/BinaryNumbers.cpp) | 20 |  [Sorting](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Sorting.cpp) |
@@ -28,8 +28,6 @@
 |  7 |  [Arrays](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Arrays.cpp) | 17 |  [More Exceptions](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/MoreExceptions.cpp) | 27 |  [Testing](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Testing.cpp) |
 |  8 |  [Dictionaries and Maps](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/DictionariesMaps.cpp) | 18 |  [Queues and Stacks](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/QueuesStacks.cpp)| 28 |  [RegEx, Patterns, and Intro to Databases](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/RegExPatternsIntroDatabases.py) |
 |  9 |  [Recursion 3](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Recursion.cpp) | 19 |  [Interfaces](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/Interfaces.cpp) | 29 |  [Bitwise AND](https://github.com/3Strela/Competitive_Programing/blob/master/Studies/HackerRank/AnyEx/BitwiseAND.cpp) |
-
-## Improving programming's skills
 
 # Interview Preparation Kit
 
